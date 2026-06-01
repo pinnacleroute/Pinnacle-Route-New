@@ -1,18 +1,7 @@
-# Dependencies
+.DS_Store
 node_modules/
-
-# Build output
-dist/
-build/
-
-# Generated types
-.astro/
-
-# Environment
 .env
 .env.*
-
-# OS files
-.DS_Store
-Thumbs.db
+dist/
+build/
 

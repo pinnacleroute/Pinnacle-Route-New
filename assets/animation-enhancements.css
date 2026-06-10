@@ -124,7 +124,7 @@ body {
   left: clamp(1.5rem, 7vw, 4.75rem) !important;
   width: min(220px, 48vw) !important;
   height: 74px !important;
-  background: url("/assets/brand/logo.png") left center / contain no-repeat !important;
+  background: url("/assets/brand/brand-mark.png") left center / contain no-repeat !important;
   pointer-events: none !important;
 }
 
